@@ -1,5 +1,7 @@
 # go 刷题用到的技巧
 
+推荐题解 ：https://books.halfrost.com/leetcode/
+
 [toc]
 
 ## about hash/map
